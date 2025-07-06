@@ -23,8 +23,8 @@
 
 #define DHT_PIN GPIO_NUM_4
 
-#define WIFI_SSID "range"
-#define WIFI_PASS "dillyboy11"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 
 SSD1306_t dev;
 static EventGroupHandle_t wifi_event_group;
